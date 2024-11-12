@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708333641486",
+    "project_id": "listmate-e3e1b",
+    "storage_bucket": "listmate-e3e1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708333641486:android:9274b973cf9513a641415f",
+        "android_client_info": {
+          "package_name": "com.nocountry.listmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCZnMxQ_GNfeGDSbY2To5fVdM6WpmRI78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
